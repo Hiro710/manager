@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "managerproject-env/bin/python3.7",
+  "git.ignoreLimitWarning": true
+}
